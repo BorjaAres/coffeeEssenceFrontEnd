@@ -47,4 +47,4 @@ performance by making all images webp.
  My Future projects will be in English from the get go.
 
 ## Deploy
-https://zippy-bonbon-eb7426.netlify.app/
+https://coffeefrontend.netlify.app/
